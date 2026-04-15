@@ -1,5 +1,7 @@
 {
-  "version": "26.1 beta",
-  "url": "https://github.com/centrooperativodelsuonopergios-ux/giostraio-pro-dist/releases/download/v1.0.0/Giostraio_Pro_Setup.exe",
-  "notes": "Lancio ufficiale v26 BETA - Sistema WASAPI certificato."
+  "version": "26.1.0",
+  "channel": "beta",
+  "name": "v26.1 Beta",
+  "notes": "Fix stabilità post-Windows Update.\n- Audio Bridge Auto-Scan (bridge.py): Implementa una funzione di scansione automatica dei dispositivi WASAPI Loopback all'avvio.\n- UI & Click Priority (style.css): Forza la priorità del pulsante di chiusura (X).\n- HWID Resilience: Modifica il sistema di verifica dell'identità usando Motherboard S/N + CPU ID.",
+  "url": "https://github.com/v26.1-beta-release.zip"
 }
