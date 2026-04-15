@@ -3,5 +3,5 @@
   "channel": "latest",
   "name": "v26.3.1",
   "notes": "Fix stabilità post-Windows Update.\n- Auto-Scan WASAPI.\n- X Button Overlay bypass.\n- Hardware-based Hash HWID.",
-  "url": "https://github.com/TUA_ORGANIZZAZIONE/TUO_REPO/releases/download/v26.3.1/Giostraio-Pro.Setup.26.3.1.exe"
+  "url": "https://github.com/centrooperativodelsuonopergios-ux/giostraio-pro-dist/releases/download/v26.3.1/Giostraio-Pro.Setup.26.3.1.exe"
 }
